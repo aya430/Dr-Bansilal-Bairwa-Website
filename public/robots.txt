@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aya430.github.io/Dr-Bansilal-Bairwa-Website/sitemap.xml
