@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace https://aya430.github.io/Dr-Bansilal-Bairwa-Website/ with the deployed URL, then uncomment the Sitemap line in robots.txt. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://aya430.github.io/Dr-Bansilal-Bairwa-Website/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
 </urlset>
